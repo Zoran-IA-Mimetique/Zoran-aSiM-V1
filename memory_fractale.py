@@ -1,0 +1,1 @@
+print("Demo: Mémoire fractale Zoran aSiM initialisée.")
