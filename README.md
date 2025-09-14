@@ -113,7 +113,4 @@ Glyphic Stealth Block (ZM)
 
 ---
 
-👉 Tu peux le coller **directement dans ton dépôt GitHub** (`README.md` à la racine).  
-
-Veux-tu que je te régénère aussi le **ZIP complet avec ce README déjà mis à jour** ?
 
