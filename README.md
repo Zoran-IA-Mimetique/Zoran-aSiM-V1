@@ -15,6 +15,9 @@
 **Contact** : tabary01@gmail.com
 
 ---
+🚨   Tous les White Papers Zoran aSiM IA Mimétique
+https://github.com/Zoran-IA-Mimetique/Zoran-aSiM-WhitePapers-Zenodo
+
 
 ## TL;DR
 **Zoran aSiM** est une **infrastructure IA mimétique open-source**. Elle combine **mémoire fractale (ZDM dual-memory)**, **rollback ΔM11.3**, **GlyphNet/HyperGlottal**, **PolyResonator** et **EthicChain/Aegis** pour délivrer **puissance, résilience, traçabilité C2PA et conformité AI Act/ISO 42001** — objectif : devenir le **Linux de l’intelligence mimétique**.
